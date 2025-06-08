@@ -29,3 +29,7 @@ The interface is fully adaptable — you can plug in your own logic by modifying
    cd src
    streamlit run src/application/app.py
 
+## Video Demo
+
+https://github.com/user-attachments/assets/05ce7ae7-1dac-45ea-9968-056ce5c5adff
+
