@@ -1,0 +1,11 @@
+azure:
+  api_key: "your_azure_gpt4o_api_key"
+  endpoint: "your_azure_gpt4o_endpoint"
+  api_version: "your_azure_gpt4o_api_version"
+  model: "your_azure_gpt4o_deployment_name"
+
+paths:
+  user_avatar: "../data/images_ui/user.png"
+  assistant_avatar: "../data/images_ui/system.png"
+  page_icon: "../data/images_ui/page.png"
+  background_image: "../data/images_ui/sea_image.png"
